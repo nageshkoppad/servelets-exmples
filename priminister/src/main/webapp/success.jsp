@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Save success page</h1>
+${Name}
+${Country}
+${Marriage}
+${Party}
+${Age}
+${Gender}
+${Period}
+${Times}
+
+</body>
+</html>
